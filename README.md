@@ -6,7 +6,6 @@
 
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/hamza-rasheed-ahmad/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/Hamza_Rshd?style=for-the-badge&logo=twitter&color=1DA1F2)](https://twitter.com/Hamza_Rshd) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/hamza-rshd/)
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram)](https://instagram.com/hamza_rshd)
